@@ -1,4 +1,4 @@
-# Device-Real-Resolution-px-
+# Device_Real_Resolution (px)
 Find Real resolution of Android Devices. (width &amp; height)
 
 # Package Details.
